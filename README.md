@@ -4,7 +4,7 @@
 
 I'm a graduate student at [FudanSELab](https://github.com/FudanSELab/).
 
-- 🌱 My interest lies in CloudNative, MicroService, AIOps and Kubernetes.
+- 🌱 My interest lies in CloudNative, MicroService, Kubernetes and AIOps.
 
 - 🚶 I’m also currently working on open source projects, say, skywalking & skywalking-python.
 
